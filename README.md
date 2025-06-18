@@ -5,6 +5,8 @@ Je suis Fabien Bellanger, Lead Software Engineer avec plus de 15 ans d'expérien
 📍 Basé à Lannion (France)   
 💻 J’aime coder en **Rust** et **Go**
 
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=fabienbellanger&show_icons=true&theme=ayu-mirage&hide=prs&hide_border=true)](https://github.com/fabienbellanger/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabienbellanger&theme=ayu-mirage&layout=compact&hide_border=true&hide=html,css,javascript,makefile)](https://github.com/fabienbellanger/github-readme-stats)
+
 ---
 
 ### 🔧 Compétences & Intérêts
